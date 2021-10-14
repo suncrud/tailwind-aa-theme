@@ -1,4 +1,4 @@
-module github.com/team-durumi/tailwind-aa-theme
+module github.com/suncrud/tailwind-aa-theme
 
 go 1.17
 
